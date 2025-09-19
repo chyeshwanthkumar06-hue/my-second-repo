@@ -1,2 +1,2 @@
 # my-second-repo
-student-portal-demi
+student-portal-demo
